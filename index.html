@@ -16,41 +16,30 @@ h2 {
     letter-spacing: 1px;
 }
 
-/* Change hamburger menu icon from light blue to dark blue */
-#header nav ul li a:before,
-#header nav ul li a:after {
-    background-color: #0041C2 !important;
-}
-
-/* Alternative selectors for different CSS structures */
-#header nav a[href="#menu"]:before,
-#header nav a[href="#menu"]:after {
-    background-color: #0041C2 !important;
-}
-
-/* If it's an SVG-based hamburger icon */
+/* More specific targeting for HTML5 UP Phantom hamburger menu */
+/* Remove the broad styling that created the blue block */
 #header nav a[href="#menu"] {
-    color: #0041C2 !important;
+    background: none !important;
+    color: inherit !important;
 }
 
-/* For Font Awesome or other icon fonts */
-#header nav .fa-bars,
-#header nav .icon-menu {
-    color: #0041C2 !important;
+/* Target only the hamburger lines, not the entire button */
+#header nav a[href="#menu"]:before {
+    border-top-color: #0041C2 !important;
+    border-bottom-color: #0041C2 !important;
 }
 
-/* If the hamburger is created with border styling */
-#header nav ul li a {
-    border-color: #0041C2 !important;
+#header nav a[href="#menu"]:after {
+    border-top-color: #0041C2 !important;
 }
 
-/* Comprehensive approach - targets common hamburger menu patterns */
-nav a[href="#menu"]:before,
-nav a[href="#menu"]:after,
-.menu-toggle:before,
-.menu-toggle:after {
-    background: #0041C2 !important;
-    border-color: #0041C2 !important;
+/* Alternative approach - if hamburger uses box-shadow for lines */
+#header nav a[href="#menu"] {
+    box-shadow: 
+        0 0.5em 0 0 #0041C2,
+        0 1em 0 0 #0041C2,
+        0 1.5em 0 0 #0041C2 !important;
+    background: none !important;
 }
 </style>
 	</head>
@@ -387,6 +376,7 @@ nav a[href="#menu"]:after,
 
 	</body>
 </html>
+
 
 
 
