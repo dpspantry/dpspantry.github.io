@@ -15,6 +15,43 @@
 h2 {
     letter-spacing: 1px;
 }
+
+/* Change hamburger menu icon from light blue to dark blue */
+#header nav ul li a:before,
+#header nav ul li a:after {
+    background-color: #0041C2 !important;
+}
+
+/* Alternative selectors for different CSS structures */
+#header nav a[href="#menu"]:before,
+#header nav a[href="#menu"]:after {
+    background-color: #0041C2 !important;
+}
+
+/* If it's an SVG-based hamburger icon */
+#header nav a[href="#menu"] {
+    color: #0041C2 !important;
+}
+
+/* For Font Awesome or other icon fonts */
+#header nav .fa-bars,
+#header nav .icon-menu {
+    color: #0041C2 !important;
+}
+
+/* If the hamburger is created with border styling */
+#header nav ul li a {
+    border-color: #0041C2 !important;
+}
+
+/* Comprehensive approach - targets common hamburger menu patterns */
+nav a[href="#menu"]:before,
+nav a[href="#menu"]:after,
+.menu-toggle:before,
+.menu-toggle:after {
+    background: #0041C2 !important;
+    border-color: #0041C2 !important;
+}
 </style>
 	</head>
 	<body class="is-preload">
@@ -350,6 +387,7 @@ h2 {
 
 	</body>
 </html>
+
 
 
 
