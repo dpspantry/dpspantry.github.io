@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #585858;
+		color: #000000;
 		font-family: "Arial", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -155,7 +155,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 500;
+		font-weight: 900;
 	}
 
 	em, i {
@@ -168,10 +168,10 @@ input, select, textarea {
 
 	h1 {
 		font-size: 2.75em;
-		font-weight: 500;
+		font-weight: 300;
 		line-height: 1.3;
 		margin: 0 0 1em 0;
-		letter-spacing: -0.035em;
+		letter-spacing: -0.045em;
 	}
 
 		h1 a {
@@ -196,7 +196,7 @@ input, select, textarea {
 		}
 
 	h2, h3, h4, h5, h6 {
-		font-weight: 500;
+		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
