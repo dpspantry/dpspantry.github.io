@@ -2336,6 +2336,11 @@ input, select, textarea {
 			top: 0.25em;
 		}
 
+.image.left {
+    margin-right: 3em !important;
+    margin-bottom: 2em !important;
+}
+
 		.image.right {
 			float: right;
 			padding: 0 0 1em 1.5em;
