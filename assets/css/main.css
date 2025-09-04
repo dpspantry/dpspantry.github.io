@@ -421,14 +421,6 @@ input, select, textarea {
 			margin-left: 66.66667%;
 		}
 
-.row.gtr-custom {
-    margin-left: -3em;
-}
-
-.row.gtr-custom > * {
-    padding-left: 3em;
-}
-
 		.row > .col-9 {
 			width: 75%;
 		}
