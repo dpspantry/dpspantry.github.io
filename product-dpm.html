@@ -30,6 +30,66 @@
     padding-left: 2em;
 }
 
+/* Horizontal layout styles */
+.project-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 3em;
+    margin-top: 2em;
+}
+
+.project-image {
+    flex: 0 0 auto;
+    width: 300px;
+}
+
+.project-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.project-details {
+    flex: 1;
+    padding-top: 1em;
+}
+
+.project-details ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.project-details ul li {
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 1em;
+}
+
+.project-details ul li:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.project-details ul li b {
+    display: block;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5em;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .project-container {
+        flex-direction: column;
+        gap: 2em;
+    }
+    
+    .project-image {
+        width: 100%;
+    }
+}
+
 </style>
 	</head>
 	<body class="is-preload">
