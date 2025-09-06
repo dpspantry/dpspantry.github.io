@@ -3349,7 +3349,7 @@ input, select, textarea {
 .project-details ul li {
     margin-bottom: 0.5em;
     border-bottom: 0px solid #e5e5e5;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
 }
 
 .project-details ul li:last-child {
@@ -3361,7 +3361,7 @@ input, select, textarea {
     display: block;
     font-weight: 600;
     color: #333;
-    margin-bottom: 0.5em;
+    margin-bottom: 0em;
 }
 
 /* Responsive design */
