@@ -3347,7 +3347,7 @@ input, select, textarea {
 }
 
 .project-details ul li {
-    margin-bottom: 0.1em !important;
+    margin-bottom: -0.2em !important;
     border-bottom: none !important;
     padding-bottom: 0 !important;
 }
