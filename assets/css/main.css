@@ -3378,7 +3378,7 @@ input, select, textarea {
 
 /* Medium white space block */
 .medium-whitespace {
-    height: 120px;
+    height: 80px;
     background-color: white;
     margin: 3em 0;
 }
