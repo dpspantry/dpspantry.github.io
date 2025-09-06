@@ -209,7 +209,7 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.1em;
-   		letter-spacing: 1em !important;
+   		letter-spacing: -0.02em !important;
 	}
 
 	h3 {
