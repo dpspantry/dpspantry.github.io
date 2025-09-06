@@ -3351,7 +3351,7 @@ input, select, textarea {
     margin-bottom: 0.05em !important;
     border-bottom: none !important;
     padding-bottom: 0 !important;
-    line-height: 1.2 !important;
+    line-height: 1 !important;
 }
 
 .project-details ul li:last-child {
