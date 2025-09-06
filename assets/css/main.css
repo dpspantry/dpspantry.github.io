@@ -3376,6 +3376,13 @@ input, select, textarea {
     }
 }
 
+/* Large white space block */
+.large-whitespace {
+    height: 200px;
+    background-color: white;
+    margin: 3em 0;
+}
+
 /* Wrapper */
 
 	#wrapper > * > .inner {
