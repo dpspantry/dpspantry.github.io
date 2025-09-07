@@ -12,6 +12,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<style>
+<style>
 h2 {
     letter-spacing: 1px;
 }
@@ -22,6 +23,24 @@ h2 {
 #menu ul li a:hover {
     color: #ffffff !important;
 }
+
+/* Fix for dull/opaque tile images */
+.tiles article .image img {
+    opacity: 1 !important;
+    filter: none !important;
+}
+
+.tiles article .image {
+    opacity: 1 !important;
+    filter: none !important;
+}
+
+.tiles article:hover .image img,
+.tiles article:hover .image {
+    opacity: 1 !important;
+    filter: none !important;
+}
+</style>
 
 </style>
 	</head>
@@ -358,6 +377,7 @@ h2 {
 
 	</body>
 </html>
+
 
 
 
