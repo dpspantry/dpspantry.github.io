@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354 327">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-family: GoogleSans-Bold, 'Google Sans';
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #f9f9fa;
+      }
+
+      .cls-6, .cls-7, .cls-4 {
+        font-family: GoogleSans-Regular, 'Google Sans';
+      }
+
+      .cls-8 {
+        fill: #231f20;
+        font-size: 27px;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 1.89px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-5" width="354" height="327"/>
+    <g>
+      <g>
+        <rect class="cls-9" x="87.79" y="137.71" width="179.32" height="51.83" transform="translate(354.9 327.26) rotate(180)"/>
+        <g>
+          <rect x="86.89" y="137.45" width="3.19" height="52.09"/>
+          <rect x="91.79" y="137.45" width="1.54" height="52.09"/>
+          <rect x="94.9" y="137.45" width="4.77" height="52.09"/>
+          <rect x="101.28" y="137.45" width="1.54" height="52.09"/>
+        </g>
+        <g>
+          <rect x="263.93" y="137.45" width="3.19" height="52.09" transform="translate(531.04 327) rotate(180)"/>
+          <rect x="260.67" y="137.45" width="1.54" height="52.09" transform="translate(522.88 327) rotate(180)"/>
+          <rect x="254.32" y="137.45" width="4.77" height="52.09" transform="translate(513.42 327) rotate(180)"/>
+          <rect x="251.18" y="137.45" width="1.54" height="52.09" transform="translate(503.9 327) rotate(180)"/>
+        </g>
+      </g>
+      <text class="cls-8" transform="translate(117.83 173.04)"><tspan class="cls-3" x="0" y="0">Sh</tspan><tspan class="cls-1" x="32.16" y="0">o</tspan><tspan class="cls-2" x="48.63" y="0">p</tspan><tspan class="cls-6" x="65.56" y="0">Pi</tspan><tspan class="cls-4" x="87.21" y="0">l</tspan><tspan class="cls-7" x="92.77" y="0">o</tspan><tspan class="cls-6" x="108.46" y="0">t</tspan></text>
+    </g>
+  </g>
+</svg>

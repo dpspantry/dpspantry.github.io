@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354 327">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-family: GoogleSans-Bold, 'Google Sans';
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #f9f9fa;
+      }
+
+      .cls-7 {
+        font-family: GoogleSans-Regular, 'Google Sans';
+      }
+
+      .cls-4 {
+        letter-spacing: .14em;
+      }
+
+      .cls-8 {
+        fill: #231f20;
+        font-size: 28.83px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-6" width="354" height="327"/>
+    <g>
+      <text class="cls-8" transform="translate(118.37 171.76)"><tspan class="cls-5" x="0" y="0">P</tspan><tspan class="cls-2" x="17.59" y="0">r</tspan><tspan class="cls-3" x="29.03" y="0">od</tspan><tspan class="cls-1" x="64.96" y="0">uc</tspan><tspan class="cls-4" x="98.46" y="0">t</tspan><tspan class="cls-7" x="114.55" y="0">LIM</tspan></text>
+      <g id="ekRhGA.tif">
+        <g>
+          <polygon points="105.96 149.9 105.96 160.8 97.05 165.3 97.05 154.26 105.96 149.9"/>
+          <polygon points="94.92 155.46 94.92 166.37 86.01 170.87 86.01 159.82 94.92 155.46"/>
+          <path d="M94.36,152.87c.05.22-.03.15-.12.21-.28.18-.76.41-1.08.58-2.81,1.52-5.66,2.95-8.5,4.4-.24.02-1.23-.55-1.53-.69-2.78-1.39-5.5-2.91-8.25-4.36l9.71-4.85,9.77,4.71Z"/>
+          <polygon points="83.32 159.82 83.32 170.87 74.41 166.37 74.41 155.46 83.32 159.82"/>
+          <polygon points="83.32 173.46 83.32 184.51 74.41 180.01 74.41 169.01 83.32 173.46"/>
+          <polygon points="97.05 178.94 97.05 167.9 105.96 163.44 105.96 174.44 97.05 178.94"/>
+          <polygon points="86.01 184.51 86.01 173.46 94.92 169.01 94.92 180.01 86.01 184.51"/>
+          <path d="M86.94,147.11l.12-.21,8.94-4.41,9.77,4.48-9.05,4.78c-3.29-1.45-6.5-3.16-9.78-4.64Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
