@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354 327">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: GoogleSans-Bold, 'Google Sans';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #f9f9fa;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-family: GoogleSans-Regular, 'Google Sans';
+      }
+
+      .cls-7 {
+        fill: #231f20;
+        font-size: 34.03px;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2.38px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-3" width="354" height="327"/>
+      <g>
+        <g>
+          <rect class="cls-8" x="64.56" y="131" width="226.02" height="65.33" transform="translate(355.13 327.33) rotate(180)"/>
+          <g>
+            <rect x="63.42" y="130.67" width="4.02" height="65.66"/>
+            <rect x="69.59" y="130.67" width="1.95" height="65.66"/>
+            <rect x="73.53" y="130.67" width="6.02" height="65.66"/>
+            <rect x="81.56" y="130.67" width="1.95" height="65.66"/>
+          </g>
+          <g>
+            <rect x="286.56" y="130.67" width="4.02" height="65.66" transform="translate(577.14 327) rotate(180)"/>
+            <rect x="282.46" y="130.67" width="1.95" height="65.66" transform="translate(566.86 327) rotate(180)"/>
+            <rect x="274.46" y="130.67" width="6.02" height="65.66" transform="translate(554.93 327) rotate(180)"/>
+            <rect x="270.5" y="130.67" width="1.95" height="65.66" transform="translate(542.94 327) rotate(180)"/>
+          </g>
+        </g>
+        <text class="cls-7" transform="translate(102.42 175.52)"><tspan class="cls-2" x="0" y="0">Sh</tspan><tspan class="cls-1" x="40.53" y="0">o</tspan><tspan class="cls-2" x="61.29" y="0">p</tspan><tspan class="cls-4" x="82.63" y="0">Pi</tspan><tspan class="cls-6" x="109.92" y="0">l</tspan><tspan class="cls-5" x="116.93" y="0">o</tspan><tspan class="cls-4" x="136.7" y="0">t</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

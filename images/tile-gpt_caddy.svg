@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354 327">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+        font-size: 45.58px;
+      }
+
+      .cls-4 {
+        fill: #f9f9fa;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-4" width="354" height="327"/>
+      <g>
+        <text class="cls-1" transform="translate(178.43 179.74)"><tspan x="0" y="0">Cad</tspan><tspan class="cls-7" x="54.24" y="0">d</tspan><tspan class="cls-6" x="71.92" y="0">y</tspan></text>
+        <circle class="cls-2" cx="127.76" cy="163.5" r="42.07"/>
+        <text class="cls-3" transform="translate(101.71 179.68)"><tspan x="0" y="0">g</tspan><tspan class="cls-5" x="17.82" y="0">P</tspan><tspan x="35.51" y="0">T</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
